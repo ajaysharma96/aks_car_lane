@@ -17,6 +17,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
 [image2]: ./test_images/output_greysolidWhiteCurve.jpg 
+
 ---
 
 ### Reflection
@@ -30,6 +31,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
 ![alt text][image1]
+
 
 ![alt text][image2]
 
