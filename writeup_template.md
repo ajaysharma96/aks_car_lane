@@ -22,6 +22,7 @@ The goals / steps of this project are the following:
 [image6]: ./test_images/output_hough_linesolidWhiteCurve.jpg 
 [image7]: ./test_images/output_weightedsolidWhiteCurve.jpg 
 [image8]: ./test_images/output_draw_linesolidWhiteCurve.jpg 
+[video1]: ./test_videos/output_solidWhiteRight.mp4 
 
 ---
 
@@ -51,7 +52,7 @@ Also the slope needs to meet a minimum requirement of being in the 0.4 to 0.9 . 
 Finally used the weighted function to superimpose the carved out region of interest image on the actual image 
 ![alt text][image7]
 
-
+![alt text][video1]
 
 ### 2. Identify potential shortcomings with your current pipeline
 
